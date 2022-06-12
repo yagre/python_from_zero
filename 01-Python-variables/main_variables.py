@@ -1,16 +1,17 @@
 name = 'Alex'
 age = 29
 family = ['Anna', 'Victor', 'Alex', 'Jhon']
+# family = ('Anna', 'Victor')
 
-# print(f'Тип name: {type(name)}')
-# print(f'Тип age: {type(age)}')
-# print(f'Тип family: {type(family)}')
-#
-# print("#" * 20)
-#
-# print(f'ID name: {id(name)}')
-# print(f'ID age: {id(age)}')
-# print(f'ID family: {id(family)}')
+print(f'Тип name: {type(name)}')
+print(f'Тип age: {type(age)}')
+print(f'Тип family: {type(family)}')
+
+print("#" * 20)
+
+print(f'ID name: {id(name)}')
+print(f'ID age: {id(age)}')
+print(f'ID family: {id(family)}')
 
 # underscore_notation = 999
 # camelCase = 'Hello World'
