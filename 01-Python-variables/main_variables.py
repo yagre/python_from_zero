@@ -1,17 +1,17 @@
-name = 'Alex'
-age = 29
-family = ['Anna', 'Victor', 'Alex', 'Jhon']
-# family = ('Anna', 'Victor')
+# name = 'Alex'
+# age = 29
+# family = ['Anna', 'Victor', 'Alex', 'Jhon']
+# # family = ('Anna', 'Victor')
 
-print(f'Тип name: {type(name)}')
-print(f'Тип age: {type(age)}')
-print(f'Тип family: {type(family)}')
+# print(f'Тип name: {type(name)}')
+# print(f'Тип age: {type(age)}')
+# print(f'Тип family: {type(family)}')
 
-print("#" * 20)
+# print("#" * 20)
 
-print(f'ID name: {id(name)}')
-print(f'ID age: {id(age)}')
-print(f'ID family: {id(family)}')
+# print(f'ID name: {id(name)}')
+# print(f'ID age: {id(age)}')
+# print(f'ID family: {id(family)}')
 
 # underscore_notation = 999
 # camelCase = 'Hello World'
@@ -25,12 +25,12 @@ print(f'ID family: {id(family)}')
 # $money = 'power'
 # _age = 22
 
-# import keyword
-# kw_list = keyword.kwlist
-# print(kw_list)
-#
-# for kw in kw_list:
-#       print(kw)
+import keyword
+kw_list = keyword.kwlist
+print(kw_list)
+
+for kw in kw_list:
+      print(kw)
 
 # return = 222
 
